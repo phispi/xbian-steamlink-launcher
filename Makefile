@@ -1,6 +1,6 @@
 SHELL = /bin/bash
 
-BUNDLE = kodi-steamlink-launcher
+BUNDLE = xbian-steamlink-launcher
 VERSION = $(shell git describe --tags)
 PLUGIN_RESOURCES = plugin.program.steamlink
 
