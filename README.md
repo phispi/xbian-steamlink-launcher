@@ -4,7 +4,7 @@ Plugin for [Xbian](https://xbian.org/) [Kodi](https://kodi.tv/) to launch [Steam
 
 ## Requirements
 
-* Xbian already installed.
+* [Xbian](https://xbian.org/getxbian/) already installed.
 
 * [ssh](https://xbian.org/faq/#)(What is the default login/password? and How do I change the SSH port?) access to your xbian installation.
 
