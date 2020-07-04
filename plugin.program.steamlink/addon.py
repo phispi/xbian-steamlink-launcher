@@ -1,5 +1,5 @@
 """
-Steamlink Launcher for Kodi
+Steamlink Launcher for Xbian Kodi
 """
 
 import os
@@ -15,7 +15,7 @@ class KodiAddon(object):
         self.path = self._addon.getAddonInfo('path').decode('utf-8')
     
     def run(self):
-        check_call(['bash', self.path + '/resources/lib/start.sh'])
+        check_call(['bash', self.path + '/usr/local/share/kodi/addons/steamlink/resources/lib/start.sh'])
 
 def main():
     addon = KodiAddon()
