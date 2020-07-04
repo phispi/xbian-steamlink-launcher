@@ -19,7 +19,7 @@ Plugin for [Xbian](https://xbian.org/) [Kodi](https://kodi.tv/) to launch [Steam
 
 * Log into ssh on your Kodi installation.
 
-* Download the [zip](https://github.com/bigbrozer/kodi-steamlink-launcher/releases) of the launcher and install it via Kodi (*Extension → Install from Zip file*). You must **allow untrusted sources** in system settings prior to this.
+* Download the [zip](https://github.com/madddmike/xbian-steamlink-launcher/releases) of the launcher and install it via Kodi (*Extension → Install from Zip file*). You must **allow untrusted sources** in system settings prior to this.
 
 ## Want to contribute ?
 
